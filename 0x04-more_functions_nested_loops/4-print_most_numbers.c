@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_most_numbers - function checks for a digit
+ * print_most_numbers - function checks for a digit (0 through 9)
  *
  * Return: 0.
  */
